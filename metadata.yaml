@@ -1,0 +1,32 @@
+_repo: Labor-and-Freedom_34012
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Debs, Eugene V. (Eugene Victor)
+    alias: Debs, Eugene Victor
+    birthdate: 1855
+    deathdate: 1926
+    gutenberg_agent_id: '36649'
+    url: http://www.gutenberg.org/2009/agents/36649
+    wikipedia: http://en.wikipedia.org/wiki/Eugene_V._Debs
+description: Miscellany. -- Reprints from various periodicals. -- Speeches.
+gutenberg_issued: '2010-09-29'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '34012'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Socialism -- United States'
+- !lcsh 'Labor -- United States'
+- !lcc 'HX'
+- !lcsh 'Socialist Party (U.S.)'
+- !lcsh 'Working class -- United States'
+- !lcc 'HD'
+title: 'Labor and Freedom: The Voice and Pen of Eugene V. Debs'
+url: http://www.gutenberg.org/ebooks/34012
