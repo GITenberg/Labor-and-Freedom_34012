@@ -13,6 +13,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/36649
     wikipedia: http://en.wikipedia.org/wiki/Eugene_V._Debs
 description: Miscellany. -- Reprints from various periodicals. -- Speeches.
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/34012#Labor-and-Freedom
 gutenberg_issued: '2010-09-29'
 gutenberg_type: Text
 identifiers:
